@@ -1,0 +1,15 @@
+[package]
+name = "wait_notify"
+version = "0.1.0"
+edition = "2021"
+authors = ["nnsgmsone <nnsmgsone@outlook.com>"]
+license = "GPL-3.0"
+description = "a synchronization primitive for Rust that provides basic wait and notify functionality"
+repository = "https://github.com/nnsgmsone/wait_notify"
+documentation = "https://docs.rs/wait_notify"
+homepage = "https://github.com/nnsgmsone"
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
